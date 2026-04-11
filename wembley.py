@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import hashlib
 import json
 import urllib.request
 from datetime import date, datetime, timedelta
@@ -52,7 +53,10 @@ def build_calendar(events):
     cal.add("X-WR-CALNAME", "Wembley Stadium")
 
     for e in events:
+        uid_base = f"{e['date'].isoformat()}-{e['summary']}@flamingspaz.github.io"
+        uid = hashlib.sha1(uid_base.encode()).hexdigest() + "@flamingspaz.github.io"
         event = Event()
+        event.add("uid", uid)
         event.add("dtstart", e["date"])
         event.add("dtend", e["date"] + timedelta(days=1))
         event.add("summary", e["summary"])

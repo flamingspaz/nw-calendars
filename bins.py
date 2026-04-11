@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import hashlib
 import json
 import urllib.request
 from datetime import datetime, timedelta, timezone
@@ -64,7 +65,10 @@ def build_calendar(events):
     cal.add("X-WR-CALNAME", "Bins")
 
     for e in events:
+        uid_base = f"{e['time'].isoformat()}-{e['summary']}@flamingspaz.github.io"
+        uid = hashlib.sha1(uid_base.encode()).hexdigest() + "@flamingspaz.github.io"
         event = Event()
+        event.add('uid', uid)
         event.add('dtstart', e["time"])
         event.add('dtend', e["time"] + timedelta(minutes=5))
         event.add('summary', e["summary"])
