@@ -7,24 +7,28 @@ BEGIN:VEVENT
 SUMMARY:✅ Recycling Waste
 DTSTART;TZID=Europe/London:20260330T114044
 DTEND;TZID=Europe/London:20260330T114544
+UID:7be5492bde741fbda34fc6bbd0392e6a7d60fe36@flamingspaz.github.io
 DESCRIPTION:Bins were collected successfully
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:✅ Food Waste
 DTSTART;TZID=Europe/London:20260407T083037
 DTEND;TZID=Europe/London:20260407T083537
+UID:5acb0b25e0649c0a70d8f9bb5047ac35d833d21a@flamingspaz.github.io
 DESCRIPTION:Bins were collected successfully
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:✅ General Waste
 DTSTART;TZID=Europe/London:20260407T115227
 DTEND;TZID=Europe/London:20260407T115727
+UID:267c479cc9c6893bc154ea814d3c3b1015ce20ec@flamingspaz.github.io
 DESCRIPTION:Bins were collected successfully
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food Waste
 DTSTART;TZID=Europe/London:20260413T050000
 DTEND;TZID=Europe/London:20260413T050500
+UID:a95b76c5fefe0ad36a3d400c18e7bfc3aeb9aa1f@flamingspaz.github.io
 DESCRIPTION:Please put your bins outside of your property before 6:30am on
   your collection day.\n\n                            ❓Do you need to ord
  er more food waste bio bags? You can order more bags online at https://www
@@ -38,6 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Recycling Waste
 DTSTART;TZID=Europe/London:20260413T050000
 DTEND;TZID=Europe/London:20260413T050500
+UID:495e1d51c1a3bb2e66a8268f653ea3db4118ba23@flamingspaz.github.io
 DESCRIPTION:Please put your bins outside of your property before 6:30am on
   your collection day.\n\n                            ❓Do you need to ord
  er more food waste bio bags? You can order more bags online at https://www
@@ -51,6 +56,7 @@ BEGIN:VEVENT
 SUMMARY:General Waste
 DTSTART;TZID=Europe/London:20260420T050000
 DTEND;TZID=Europe/London:20260420T050500
+UID:79fe975317830c9db38f8cc09d7bb961dff5be1e@flamingspaz.github.io
 DESCRIPTION:Please put your bins outside of your property before 6:30am on
   your collection day.\n\n                            ❓Do you need to ord
  er more food waste bio bags? You can order more bags online at https://www
