@@ -1,0 +1,42 @@
+name: Generate calendars
+
+on:
+  schedule:
+    - cron: "0 5 * * *"   # daily at 05:00 UTC
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install icalendar beautifulsoup4
+
+      - run: python bins.py
+
+      - run: python wembley.py
+
+      - name: Deploy outputs to gh-pages
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git fetch origin gh-pages --depth=1 2>/dev/null \
+            && git worktree add /tmp/gh-pages gh-pages \
+            || git worktree add --orphan -b gh-pages /tmp/gh-pages
+
+          cp bins.ics bins.json wembley.ics wembley.json /tmp/gh-pages/
+
+          cd /tmp/gh-pages
+          git add bins.ics bins.json wembley.ics wembley.json
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "chore: regenerate calendars"
+          git push origin gh-pages
