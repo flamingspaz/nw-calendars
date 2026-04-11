@@ -38,6 +38,15 @@ sensor:
       - next
       - events
     scan_interval: 3600
+template:
+  - sensor:
+      - name: Next Wembley Event Date
+        state: "{{ state_attr('sensor.next_wembley_event', 'next')['start'] }}"
+
+      - name: Next Wembley Event Days Until
+        state: "{{ state_attr('sensor.next_wembley_event', 'next')['days_until'] }}"
+        unit_of_measurement: days
+
 ```
 
 The sensor state is the next event title. Additional attributes available via `next`:
