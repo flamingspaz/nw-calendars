@@ -11,32 +11,18 @@ UID:267c479cc9c6893bc154ea814d3c3b1015ce20ec@flamingspaz.github.io
 DESCRIPTION:Bins were collected successfully
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Food Waste
-DTSTART;TZID=Europe/London:20260413T050000
-DTEND;TZID=Europe/London:20260413T050500
-UID:a95b76c5fefe0ad36a3d400c18e7bfc3aeb9aa1f@flamingspaz.github.io
-DESCRIPTION:Please put your bins outside of your property before 6:30am on
-  your collection day.\n\n                            ❓Do you need to ord
- er more food waste bio bags? You can order more bags online at https://www
- .harrow.gov.uk/bins-waste-recycling/food-waste-bio-bags\n\n               
-              Bin\, Waste & Recycling\n                            https://
- www.harrow.gov.uk/bins-waste-recycling\n\n                            What
-  goes in which bin?\n                            https://www.harrow.gov.uk
- /binguide
+SUMMARY:✅ Food Waste
+DTSTART;TZID=Europe/London:20260413T084718
+DTEND;TZID=Europe/London:20260413T085218
+UID:c817099cc9ff978692a135b1610debe6ba085d57@flamingspaz.github.io
+DESCRIPTION:Bins were collected successfully
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling Waste
-DTSTART;TZID=Europe/London:20260413T050000
-DTEND;TZID=Europe/London:20260413T050500
-UID:495e1d51c1a3bb2e66a8268f653ea3db4118ba23@flamingspaz.github.io
-DESCRIPTION:Please put your bins outside of your property before 6:30am on
-  your collection day.\n\n                            ❓Do you need to ord
- er more food waste bio bags? You can order more bags online at https://www
- .harrow.gov.uk/bins-waste-recycling/food-waste-bio-bags\n\n               
-              Bin\, Waste & Recycling\n                            https://
- www.harrow.gov.uk/bins-waste-recycling\n\n                            What
-  goes in which bin?\n                            https://www.harrow.gov.uk
- /binguide
+SUMMARY:✅ Recycling Waste
+DTSTART;TZID=Europe/London:20260413T093511
+DTEND;TZID=Europe/London:20260413T094011
+UID:f4a5b5f0ad517577824bf8e45871204033cc1b21@flamingspaz.github.io
+DESCRIPTION:Bins were collected successfully
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food Waste
