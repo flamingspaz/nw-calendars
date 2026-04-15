@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:-//Pesky Potato//pesky.moe//EN
 X-WR-CALNAME:Wembley Stadium
 BEGIN:VEVENT
-SUMMARY:19:00 England v Spain
-DTSTART;VALUE=DATE:20260414
-DTEND;VALUE=DATE:20260415
-UID:2f64a1d27808c4d3ff157ec5634909a60f8cbe62@flamingspaz.github.io
-DESCRIPTION:England will face Spain in a highly anticipated 2027 FIFA Worl
- d Cup qualifier on Tuesday 14 April 2026.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:15:00 Sidemen Charity Match
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
@@ -18,17 +10,17 @@ UID:4daf08859086565fd8bebfeb798f0aa282622648@flamingspaz.github.io
 DESCRIPTION:Your favourite creators are back in 2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Emirates FA Cup Semi-Final 1
+SUMMARY:17:15 The Emirates FA Cup Semi-Final 1
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
-UID:4b9f8e6023cb22174eda00e1756cfd35026f3fc6@flamingspaz.github.io
+UID:81ab88b717aa4529b1dccdd1aee21e6e49b7dd8c@flamingspaz.github.io
 DESCRIPTION:Manchester City v Southampton
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Emirates FA Cup Semi-Final
+SUMMARY:15:00 The Emirates FA Cup Semi-Final
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
-UID:38156df620552cc8aa2f9183ded9255c4c437874@flamingspaz.github.io
+UID:5176a593688ce2d0048d0433eca1fb0e7e3d4fac@flamingspaz.github.io
 DESCRIPTION:Chelsea v Leeds United
 END:VEVENT
 BEGIN:VEVENT

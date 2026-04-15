@@ -1,28 +1,23 @@
 {
   "next": {
-    "summary": "19:00 England v Spain",
-    "start": "2026-04-14",
-    "description": "England will face Spain in a highly anticipated 2027 FIFA World Cup qualifier on Tuesday 14 April 2026.",
-    "days_until": 0
+    "summary": "15:00 Sidemen Charity Match",
+    "start": "2026-04-18",
+    "description": "Your favourite creators are back in 2026",
+    "days_until": 3
   },
   "events": [
-    {
-      "summary": "19:00 England v Spain",
-      "start": "2026-04-14",
-      "description": "England will face Spain in a highly anticipated 2027 FIFA World Cup qualifier on Tuesday 14 April 2026."
-    },
     {
       "summary": "15:00 Sidemen Charity Match",
       "start": "2026-04-18",
       "description": "Your favourite creators are back in 2026"
     },
     {
-      "summary": "The Emirates FA Cup Semi-Final 1",
+      "summary": "17:15 The Emirates FA Cup Semi-Final 1",
       "start": "2026-04-25",
       "description": "Manchester City v Southampton"
     },
     {
-      "summary": "The Emirates FA Cup Semi-Final",
+      "summary": "15:00 The Emirates FA Cup Semi-Final",
       "start": "2026-04-26",
       "description": "Chelsea v Leeds United"
     },
