@@ -25,10 +25,10 @@ DESCRIPTION:The Enterprise National League Promotion Final returns to Wemb
  ley on Sunday 10 May.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Emirates FA Cup Final
+SUMMARY:15:00 The Emirates FA Cup Final
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
-UID:3c2aaaff8ca62aa5a993b1d82fa2641a23adf5e2@flamingspaz.github.io
+UID:f048309e08b198fc57c3b7c107863261392cadb9@flamingspaz.github.io
 DESCRIPTION:Who do you think will lift the Emirates FA Cup this season?
 END:VEVENT
 BEGIN:VEVENT

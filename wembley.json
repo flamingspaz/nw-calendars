@@ -3,7 +3,7 @@
     "summary": "17:15 The Emirates FA Cup Semi-Final 1",
     "start": "2026-04-25",
     "description": "Manchester City v Southampton",
-    "days_until": 2
+    "days_until": 1
   },
   "events": [
     {
@@ -22,7 +22,7 @@
       "description": "The Enterprise National League Promotion Final returns to Wembley on Sunday 10 May."
     },
     {
-      "summary": "The Emirates FA Cup Final",
+      "summary": "15:00 The Emirates FA Cup Final",
       "start": "2026-05-16",
       "description": "Who do you think will lift the Emirates FA Cup this season?"
     },
