@@ -3,7 +3,7 @@
     "summary": "15:00 Enterprise National League Promotion Final",
     "start": "2026-05-10",
     "description": "The Enterprise National League Promotion Final returns to Wembley on Sunday 10 May.",
-    "days_until": 5
+    "days_until": 4
   },
   "events": [
     {
@@ -220,6 +220,11 @@
       "summary": "Union Jack Classic",
       "start": "2026-09-19",
       "description": "Arizona State Sun Devils will face Kansas Jayhawks in the Union Jack Classic at Wembley Stadium"
+    },
+    {
+      "summary": "19:45 England v Czechia",
+      "start": "2026-10-06",
+      "description": "Czechia travel to take on the Three Lions under the arch on Tuesday 6 October 2026"
     }
   ]
 }

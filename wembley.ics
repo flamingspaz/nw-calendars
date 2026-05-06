@@ -311,4 +311,12 @@ UID:59edbc935d2a2a58bae91b5f35aac24ae1ae5ad3@flamingspaz.github.io
 DESCRIPTION:Arizona State Sun Devils will face Kansas Jayhawks in the Unio
  n Jack Classic at Wembley Stadium
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:19:45 England v Czechia
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+UID:6c31f22bbf9bf966f6ca634f7fc3766d93791380@flamingspaz.github.io
+DESCRIPTION:Czechia travel to take on the Three Lions under the arch on Tu
+ esday 6 October 2026
+END:VEVENT
 END:VCALENDAR
