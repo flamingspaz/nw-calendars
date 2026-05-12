@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:-//Pesky Potato//pesky.moe//EN
 X-WR-CALNAME:Wembley Stadium
 BEGIN:VEVENT
-SUMMARY:15:00 Enterprise National League Promotion Final
-DTSTART;VALUE=DATE:20260510
-DTEND;VALUE=DATE:20260511
-UID:1e2cd9b25a6a0b320f514d86d69fff07500805e9@flamingspaz.github.io
-DESCRIPTION:The Enterprise National League Promotion Final returns to Wemb
- ley on Sunday 10 May.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:15:00 The Emirates FA Cup Final
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
@@ -49,10 +41,10 @@ DESCRIPTION:Which two teams will compete for the chance to play in the Lea
  gue One next season?
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Betfred Challenge Cup Final
+SUMMARY:11:45 The Betfred Challenge Cup Final
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260531
-UID:a644ffb9462d192feae088efa205257d56724fe0@flamingspaz.github.io
+UID:f3e2d7983c8f3198d9f4ffcabee559f057c6319b@flamingspaz.github.io
 DESCRIPTION:The Betfred Challenge Cup Final returns to Wembley in 2026.
 END:VEVENT
 BEGIN:VEVENT

@@ -3,14 +3,9 @@
     "summary": "15:00 The Emirates FA Cup Final",
     "start": "2026-05-16",
     "description": "Who do you think will lift the Emirates FA Cup this season?",
-    "days_until": 5
+    "days_until": 4
   },
   "events": [
-    {
-      "summary": "15:00 Enterprise National League Promotion Final",
-      "start": "2026-05-10",
-      "description": "The Enterprise National League Promotion Final returns to Wembley on Sunday 10 May."
-    },
     {
       "summary": "15:00 The Emirates FA Cup Final",
       "start": "2026-05-16",
@@ -37,7 +32,7 @@
       "description": "Which two teams will compete for the chance to play in the League One next season?"
     },
     {
-      "summary": "The Betfred Challenge Cup Final",
+      "summary": "11:45 The Betfred Challenge Cup Final",
       "start": "2026-05-30",
       "description": "The Betfred Challenge Cup Final returns to Wembley in 2026."
     },
