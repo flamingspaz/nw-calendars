@@ -3,7 +3,7 @@
     "summary": "15:00 The Emirates FA Cup Final",
     "start": "2026-05-16",
     "description": "Who do you think will lift the Emirates FA Cup this season?",
-    "days_until": 4
+    "days_until": 3
   },
   "events": [
     {
@@ -22,12 +22,12 @@
       "description": "Which two teams will take part in the richest match in world football?"
     },
     {
-      "summary": "Sky Bet League One Play-Off Final",
+      "summary": "13:00 Sky Bet League One Play-Off Final",
       "start": "2026-05-24",
       "description": "Which two teams will compete for the chance to play in the Championship next season?"
     },
     {
-      "summary": "Sky Bet League Two Play-Off Final",
+      "summary": "15:00 Sky Bet League Two Play-Off Final",
       "start": "2026-05-25",
       "description": "Which two teams will compete for the chance to play in the League One next season?"
     },

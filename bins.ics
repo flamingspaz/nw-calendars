@@ -19,9 +19,9 @@ DESCRIPTION:Bins were collected successfully
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:✅ Recycling Waste
-DTSTART;TZID=Europe/London:20260511T120139
-DTEND;TZID=Europe/London:20260511T120639
-UID:6ebd2ace90a238d33d5b0e94c618f4b794456bc7@flamingspaz.github.io
+DTSTART;TZID=Europe/London:20260511T112148
+DTEND;TZID=Europe/London:20260511T112648
+UID:a27373dab25323cfb70839e632fc4f89e0fc9aa3@flamingspaz.github.io
 DESCRIPTION:Bins were collected successfully
 END:VEVENT
 BEGIN:VEVENT
