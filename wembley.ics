@@ -311,4 +311,11 @@ UID:6c31f22bbf9bf966f6ca634f7fc3766d93791380@flamingspaz.github.io
 DESCRIPTION:Czechia travel to take on the Three Lions under the arch on Tu
  esday 6 October 2026
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:14:30 Jacksonville Jaguars 2026
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+UID:824f8290db69801e3dfeffdb9fd5cf5dea95dc11@flamingspaz.github.io
+DESCRIPTION:Houston Texans v Jacksonville Jaguars
+END:VEVENT
 END:VCALENDAR

@@ -3,7 +3,7 @@
     "summary": "15:00 The Emirates FA Cup Final",
     "start": "2026-05-16",
     "description": "Who do you think will lift the Emirates FA Cup this season?",
-    "days_until": 3
+    "days_until": 2
   },
   "events": [
     {
@@ -220,6 +220,11 @@
       "summary": "19:45 England v Czechia",
       "start": "2026-10-06",
       "description": "Czechia travel to take on the Three Lions under the arch on Tuesday 6 October 2026"
+    },
+    {
+      "summary": "14:30 Jacksonville Jaguars 2026",
+      "start": "2026-10-18",
+      "description": "Houston Texans v Jacksonville Jaguars"
     }
   ]
 }
