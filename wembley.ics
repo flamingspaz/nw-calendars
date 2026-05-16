@@ -7,30 +7,28 @@ SUMMARY:15:00 The Emirates FA Cup Final
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
 UID:f048309e08b198fc57c3b7c107863261392cadb9@flamingspaz.github.io
-DESCRIPTION:Who do you think will lift the Emirates FA Cup this season?
+DESCRIPTION:Chelsea v Manchester City
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:12:30 NON-LEAGUE FINALS DAY
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
 UID:5c7d93984c3258803347bf97c9209cd5b6b83888@flamingspaz.github.io
-DESCRIPTION:The Isuzu FA Vase (12.30KO) and FA Trophy Final (16.30KO)
+DESCRIPTION:The Isuzu FA Vase and FA Trophy Final
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sky Bet Championship Play-Off Final
+SUMMARY:16:30 Sky Bet Championship Play-Off Final
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
-UID:87236ea9a5d4f4ed3fa7c26b08b2013cbf32828f@flamingspaz.github.io
-DESCRIPTION:Which two teams will take part in the richest match in world f
- ootball?
+UID:0dc74d3fbc25ca00e572858311e11d0f33c2c5f3@flamingspaz.github.io
+DESCRIPTION:Hull City v Southampton
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:13:00 Sky Bet League One Play-Off Final
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
 UID:0735eb4eb53f81d389637ba23c46281d73f9e4cb@flamingspaz.github.io
-DESCRIPTION:Which two teams will compete for the chance to play in the Cha
- mpionship next season?
+DESCRIPTION:Bolton Wanderers v Stockport County
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:15:00 Sky Bet League Two Play-Off Final
