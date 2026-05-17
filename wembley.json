@@ -1,16 +1,11 @@
 {
   "next": {
-    "summary": "15:00 The Emirates FA Cup Final",
-    "start": "2026-05-16",
-    "description": "Chelsea v Manchester City",
+    "summary": "12:30 NON-LEAGUE FINALS DAY",
+    "start": "2026-05-17",
+    "description": "The Isuzu FA Vase and FA Trophy Final",
     "days_until": 0
   },
   "events": [
-    {
-      "summary": "15:00 The Emirates FA Cup Final",
-      "start": "2026-05-16",
-      "description": "Chelsea v Manchester City"
-    },
     {
       "summary": "12:30 NON-LEAGUE FINALS DAY",
       "start": "2026-05-17",
