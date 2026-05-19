@@ -3,14 +3,9 @@
     "summary": "16:30 Sky Bet Championship Play-Off Final",
     "start": "2026-05-23",
     "description": "Hull City v Southampton",
-    "days_until": 5
+    "days_until": 4
   },
   "events": [
-    {
-      "summary": "12:30 NON-LEAGUE FINALS DAY",
-      "start": "2026-05-17",
-      "description": "The Isuzu FA Vase and FA Trophy Final"
-    },
     {
       "summary": "16:30 Sky Bet Championship Play-Off Final",
       "start": "2026-05-23",
