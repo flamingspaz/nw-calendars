@@ -1,16 +1,11 @@
 {
   "next": {
-    "summary": "15:30 Sky Bet Championship Play-Off Final",
-    "start": "2026-05-23",
-    "description": "Hull City v Middlesbrough",
+    "summary": "13:00 Sky Bet League One Play-Off Final",
+    "start": "2026-05-24",
+    "description": "Bolton Wanderers v Stockport County",
     "days_until": 0
   },
   "events": [
-    {
-      "summary": "15:30 Sky Bet Championship Play-Off Final",
-      "start": "2026-05-23",
-      "description": "Hull City v Middlesbrough"
-    },
     {
       "summary": "13:00 Sky Bet League One Play-Off Final",
       "start": "2026-05-24",
