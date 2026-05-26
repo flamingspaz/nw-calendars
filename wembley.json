@@ -1,16 +1,11 @@
 {
   "next": {
-    "summary": "15:00 Sky Bet League Two Play-Off Final",
-    "start": "2026-05-25",
-    "description": "Which two teams will compete for the chance to play in the League One next season?",
-    "days_until": 0
+    "summary": "11:45 The Betfred Challenge Cup Final",
+    "start": "2026-05-30",
+    "description": "The Betfred Challenge Cup Final returns to Wembley in 2026.",
+    "days_until": 4
   },
   "events": [
-    {
-      "summary": "15:00 Sky Bet League Two Play-Off Final",
-      "start": "2026-05-25",
-      "description": "Which two teams will compete for the chance to play in the League One next season?"
-    },
     {
       "summary": "11:45 The Betfred Challenge Cup Final",
       "start": "2026-05-30",

@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:-//Pesky Potato//pesky.moe//EN
 X-WR-CALNAME:Wembley Stadium
 BEGIN:VEVENT
-SUMMARY:15:00 Sky Bet League Two Play-Off Final
-DTSTART;VALUE=DATE:20260525
-DTEND;VALUE=DATE:20260526
-UID:9baf62e5a107678a3a9bb8be45fab4717a121979@flamingspaz.github.io
-DESCRIPTION:Which two teams will compete for the chance to play in the Lea
- gue One next season?
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:11:45 The Betfred Challenge Cup Final
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260531
