@@ -1,16 +1,11 @@
 {
   "next": {
-    "summary": "11:45 The Betfred Challenge Cup Final",
-    "start": "2026-05-30",
-    "description": "The Betfred Challenge Cup Final returns to Wembley in 2026.",
+    "summary": "15:00 Adobe Women's FA Cup Final 2026",
+    "start": "2026-05-31",
+    "description": "Who will lift the Adobe Women's FA Cup this year?",
     "days_until": 0
   },
   "events": [
-    {
-      "summary": "11:45 The Betfred Challenge Cup Final",
-      "start": "2026-05-30",
-      "description": "The Betfred Challenge Cup Final returns to Wembley in 2026."
-    },
     {
       "summary": "15:00 Adobe Women's FA Cup Final 2026",
       "start": "2026-05-31",
