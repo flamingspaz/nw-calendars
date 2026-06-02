@@ -3,7 +3,7 @@
     "summary": "CAPITAL'S SUMMERTIME BALL WITH BARCLAYCARD",
     "start": "2026-06-06",
     "description": "The UK\u2019s biggest summer party",
-    "days_until": 5
+    "days_until": 4
   },
   "events": [
     {
@@ -175,6 +175,11 @@
       "summary": "Bon Jovi",
       "start": "2026-09-09",
       "description": "Forever Tour"
+    },
+    {
+      "summary": "Diljit Dosanjh",
+      "start": "2026-09-12",
+      "description": "Aura World Tour"
     },
     {
       "summary": "Union Jack Classic",
