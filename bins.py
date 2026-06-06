@@ -9,7 +9,11 @@ import zoneinfo
 
 
 def fetch_events():
-    with urllib.request.urlopen("https://www.harrow.gov.uk/ajax/bins/summary/010070265940") as url:
+    req = urllib.request.Request(
+        "https://www.harrow.gov.uk/ajax/bins/summary/010070265940",
+        headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15"},
+    )
+    with urllib.request.urlopen(req) as url:
         data = json.load(url)
 
     events = []

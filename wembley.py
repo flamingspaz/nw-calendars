@@ -11,7 +11,7 @@ from icalendar import Calendar, Event
 def fetch_events():
     req = urllib.request.Request(
         "https://www.wembleystadium.com/events",
-        headers={"User-Agent": "Mozilla/5.0"}
+        headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15"}
     )
     with urllib.request.urlopen(req) as resp:
         soup = BeautifulSoup(resp.read(), "html.parser")
