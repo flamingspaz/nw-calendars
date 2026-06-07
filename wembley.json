@@ -1,16 +1,11 @@
 {
   "next": {
-    "summary": "CAPITAL'S SUMMERTIME BALL WITH BARCLAYCARD",
-    "start": "2026-06-06",
-    "description": "The UK\u2019s biggest summer party",
-    "days_until": 0
+    "summary": "17:00 Harry Styles",
+    "start": "2026-06-12",
+    "description": "Together, Together",
+    "days_until": 5
   },
   "events": [
-    {
-      "summary": "CAPITAL'S SUMMERTIME BALL WITH BARCLAYCARD",
-      "start": "2026-06-06",
-      "description": "The UK\u2019s biggest summer party"
-    },
     {
       "summary": "17:00 Harry Styles",
       "start": "2026-06-12",
