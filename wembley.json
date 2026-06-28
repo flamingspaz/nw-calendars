@@ -1,16 +1,11 @@
 {
   "next": {
-    "summary": "17:00 Harry Styles",
-    "start": "2026-06-27",
+    "summary": "Harry Styles",
+    "start": "2026-06-29",
     "description": "Together, Together",
-    "days_until": 0
+    "days_until": 1
   },
   "events": [
-    {
-      "summary": "17:00 Harry Styles",
-      "start": "2026-06-27",
-      "description": "Together, Together"
-    },
     {
       "summary": "Harry Styles",
       "start": "2026-06-29",
