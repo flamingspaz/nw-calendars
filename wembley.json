@@ -1,16 +1,11 @@
 {
   "next": {
-    "summary": "Harry Styles",
-    "start": "2026-07-01",
+    "summary": "17:00 Harry Styles",
+    "start": "2026-07-03",
     "description": "Together, Together",
-    "days_until": 0
+    "days_until": 1
   },
   "events": [
-    {
-      "summary": "Harry Styles",
-      "start": "2026-07-01",
-      "description": "Together, Together"
-    },
     {
       "summary": "17:00 Harry Styles",
       "start": "2026-07-03",
@@ -135,6 +130,11 @@
       "summary": "Union Jack Classic",
       "start": "2026-09-19",
       "description": "Arizona State Sun Devils will face Kansas Jayhawks in the Union Jack Classic at Wembley Stadium"
+    },
+    {
+      "summary": "19:45 England v Spain",
+      "start": "2026-09-26",
+      "description": "Spain travel to take on the Three Lions under the arch on Saturday 26 September 2026"
     },
     {
       "summary": "19:45 England v Czechia",

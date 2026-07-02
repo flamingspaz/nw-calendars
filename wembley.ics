@@ -3,13 +3,6 @@ VERSION:2.0
 PRODID:-//Pesky Potato//pesky.moe//EN
 X-WR-CALNAME:Wembley Stadium
 BEGIN:VEVENT
-SUMMARY:Harry Styles
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20260702
-UID:13cd54e50149d83de15613cc171a5d4fed5ff533@flamingspaz.github.io
-DESCRIPTION:Together\, Together
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:17:00 Harry Styles
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
@@ -187,6 +180,14 @@ DTEND;VALUE=DATE:20260920
 UID:59edbc935d2a2a58bae91b5f35aac24ae1ae5ad3@flamingspaz.github.io
 DESCRIPTION:Arizona State Sun Devils will face Kansas Jayhawks in the Unio
  n Jack Classic at Wembley Stadium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:19:45 England v Spain
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+UID:0f566b781de446232bdf47a19fbba0afc058d408@flamingspaz.github.io
+DESCRIPTION:Spain travel to take on the Three Lions under the arch on Satu
+ rday 26 September 2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:19:45 England v Czechia
