@@ -4,14 +4,6 @@ PRODID:-//Pesky Potato//pesky.moe//EN
 X-WR-CALNAME:Wembley Stadium
 BEGIN:VEVENT
 SUMMARY:My Chemical Romance
-DTSTART;VALUE=DATE:20260708
-DTEND;VALUE=DATE:20260709
-UID:98db1cfc966b82c504a933256045452b8245b75e@flamingspaz.github.io
-DESCRIPTION:My Chemical Romance are bringing the Long Live The Black Parad
- e Tour to Wembley Stadium in 2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:My Chemical Romance
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 UID:c0580e28b5340c9a109265582c1195dc75de5889@flamingspaz.github.io
