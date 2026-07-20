@@ -1,16 +1,11 @@
 {
   "next": {
     "summary": "Bruno Mars",
-    "start": "2026-07-19",
+    "start": "2026-07-22",
     "description": "The Romantic Tour",
-    "days_until": 0
+    "days_until": 2
   },
   "events": [
-    {
-      "summary": "Bruno Mars",
-      "start": "2026-07-19",
-      "description": "The Romantic Tour"
-    },
     {
       "summary": "Bruno Mars",
       "start": "2026-07-22",
