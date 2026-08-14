@@ -3,7 +3,7 @@
     "summary": "The Weeknd",
     "start": "2026-08-14",
     "description": "After Hours Til Dawn Stadium Tour with Playboi Carti",
-    "days_until": 1
+    "days_until": 0
   },
   "events": [
     {
@@ -75,6 +75,11 @@
       "summary": "14:30 Jacksonville Jaguars 2026",
       "start": "2026-10-18",
       "description": "Houston Texans @ Jacksonville Jaguars"
+    },
+    {
+      "summary": "19:45 England v Croatia",
+      "start": "2026-11-12",
+      "description": "Croatia travel to take on the Three Lions under the arch on Thursday 12 November 2026"
     }
   ]
 }

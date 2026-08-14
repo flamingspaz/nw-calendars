@@ -103,4 +103,12 @@ DTEND;VALUE=DATE:20261019
 UID:824f8290db69801e3dfeffdb9fd5cf5dea95dc11@flamingspaz.github.io
 DESCRIPTION:Houston Texans @ Jacksonville Jaguars
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:19:45 England v Croatia
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+UID:3b40bb212dabf3eedf91274d851d847c1ec9fc31@flamingspaz.github.io
+DESCRIPTION:Croatia travel to take on the Three Lions under the arch on Th
+ ursday 12 November 2026
+END:VEVENT
 END:VCALENDAR
