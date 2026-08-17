@@ -4,20 +4,6 @@ PRODID:-//Pesky Potato//pesky.moe//EN
 X-WR-CALNAME:Bins
 SUMMARY:Harrow Bin Calendar
 BEGIN:VEVENT
-SUMMARY:✅ Recycling Waste
-DTSTART;TZID=Europe/London:20260803T085227
-DTEND;TZID=Europe/London:20260803T085727
-UID:9285fe57d7c289e3061a169b1100eac3bea73112@flamingspaz.github.io
-DESCRIPTION:Bins were collected successfully
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:✅ Food Waste
-DTSTART;TZID=Europe/London:20260810T083538
-DTEND;TZID=Europe/London:20260810T084038
-UID:2d2f39f9e9b80ff0961a956829ed8347c52a4770@flamingspaz.github.io
-DESCRIPTION:Bins were collected successfully
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:✅ General Waste
 DTSTART;TZID=Europe/London:20260810T110649
 DTEND;TZID=Europe/London:20260810T111149
@@ -53,10 +39,38 @@ DESCRIPTION:Please put your bins outside of your property before 6:30am on
  /binguide
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Food Waste
+DTSTART;TZID=Europe/London:20260824T050000
+DTEND;TZID=Europe/London:20260824T050500
+UID:591f79cb2d521fa70b340f174e79f6035bd63dec@flamingspaz.github.io
+DESCRIPTION:Please put your bins outside of your property before 6:30am on
+  your collection day.\n\n                            ❓Do you need to ord
+ er more food waste bio bags? You can order more bags online at https://www
+ .harrow.gov.uk/bins-waste-recycling/food-waste-bio-bags\n\n               
+              Bin\, Waste & Recycling\n                            https://
+ www.harrow.gov.uk/bins-waste-recycling\n\n                            What
+  goes in which bin?\n                            https://www.harrow.gov.uk
+ /binguide
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General Waste
 DTSTART;TZID=Europe/London:20260824T050000
 DTEND;TZID=Europe/London:20260824T050500
 UID:ab61b5a2ad72ba60a9fb502ef24783c742efff05@flamingspaz.github.io
+DESCRIPTION:Please put your bins outside of your property before 6:30am on
+  your collection day.\n\n                            ❓Do you need to ord
+ er more food waste bio bags? You can order more bags online at https://www
+ .harrow.gov.uk/bins-waste-recycling/food-waste-bio-bags\n\n               
+              Bin\, Waste & Recycling\n                            https://
+ www.harrow.gov.uk/bins-waste-recycling\n\n                            What
+  goes in which bin?\n                            https://www.harrow.gov.uk
+ /binguide
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling Waste
+DTSTART;TZID=Europe/London:20260901T050000
+DTEND;TZID=Europe/London:20260901T050500
+UID:c66ee03f5272ad41168f035950aa376afc32e5bc@flamingspaz.github.io
 DESCRIPTION:Please put your bins outside of your property before 6:30am on
   your collection day.\n\n                            ❓Do you need to ord
  er more food waste bio bags? You can order more bags online at https://www
