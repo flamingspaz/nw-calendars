@@ -3,14 +3,9 @@
     "summary": "AEW All In: London",
     "start": "2026-08-30",
     "description": "AEW All In: London will return to Wembley Stadium in 2026",
-    "days_until": 10
+    "days_until": 9
   },
   "events": [
-    {
-      "summary": "The Weeknd",
-      "start": "2026-08-19",
-      "description": "After Hours Til Dawn Stadium Tour with Playboi Carti"
-    },
     {
       "summary": "AEW All In: London",
       "start": "2026-08-30",
@@ -60,6 +55,11 @@
       "summary": "19:45 England v Croatia",
       "start": "2026-11-12",
       "description": "Croatia travel to take on the Three Lions under the arch on Thursday 12 November 2026"
+    },
+    {
+      "summary": "Noah Kahan",
+      "start": "2027-07-23",
+      "description": "The Last of the Bugs World Tour"
     }
   ]
 }
