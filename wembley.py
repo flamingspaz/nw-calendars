@@ -3,7 +3,8 @@
 import hashlib
 import json
 import urllib.request
-from datetime import date, datetime, timedelta
+from datetime import datetime, timedelta
+import zoneinfo
 from bs4 import BeautifulSoup
 from icalendar import Calendar, Event
 
@@ -68,7 +69,8 @@ def build_calendar(events):
 
 
 def write_ha_json(events, path):
-    today = date.today()
+    now = datetime.now(tz=zoneinfo.ZoneInfo('Europe/London'))
+    today = now.date()
 
     def to_entry(e):
         return {
@@ -89,6 +91,7 @@ def write_ha_json(events, path):
         }
 
     payload = {
+        "generated": now.isoformat(),
         "next": next_event,
         "events": [to_entry(e) for e in events],
     }

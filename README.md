@@ -26,6 +26,7 @@ sensor:
     resource: https://flamingspaz.github.io/nw-calendars/wembley.json
     value_template: "{{ value_json.next.summary }}"
     json_attributes:
+      - generated
       - next
       - events
     scan_interval: 3600
@@ -35,6 +36,7 @@ sensor:
     resource: https://flamingspaz.github.io/nw-calendars/bins.json
     value_template: "{{ value_json.next.summary }}"
     json_attributes:
+      - generated
       - next
       - events
     scan_interval: 3600
@@ -55,4 +57,10 @@ The sensor state is the next event title. Additional attributes available via `n
 {{ states.sensor.next_wembley_event.attributes.next.start }}      # e.g. "2026-04-12"
 {{ states.sensor.next_wembley_event.attributes.next.days_until }} # e.g. 1
 {{ states.sensor.next_wembley_event.attributes.next.description }}
+```
+
+Each feed also carries a top-level `generated` timestamp (ISO 8601, Europe/London) recording when it was last built, so you can tell how stale the data is:
+
+```yaml
+{{ states.sensor.next_wembley_event.attributes.generated }} # e.g. "2026-04-11T04:07:12.483921+01:00"
 ```

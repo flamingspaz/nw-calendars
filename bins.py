@@ -104,6 +104,7 @@ def write_ha_json(events, path):
         }
 
     payload = {
+        "generated": now.isoformat(),
         "next": next_event,
         "events": [to_entry(e) for e in events],
     }
