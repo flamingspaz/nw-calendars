@@ -3,7 +3,7 @@
     "summary": "AEW All In: London",
     "start": "2026-08-30",
     "description": "AEW All In: London will return to Wembley Stadium in 2026",
-    "days_until": 5
+    "days_until": 4
   },
   "events": [
     {
@@ -59,6 +59,11 @@
     {
       "summary": "Noah Kahan",
       "start": "2027-07-23",
+      "description": "The Last of the Bugs World Tour"
+    },
+    {
+      "summary": "Noah Kahan",
+      "start": "2027-07-24",
       "description": "The Last of the Bugs World Tour"
     }
   ]
