@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-26T21:46:54.001633+01:00",
+  "generated": "2026-08-27T17:18:44.490472+01:00",
   "next": {
     "summary": "Food Waste",
     "start": "2026-09-01T05:00:00+01:00",
     "description": "Please put your bins outside of your property before 6:30am on your collection day.\n\n                            \u2753Do you need to order more food waste bio bags? You can order more bags online at https://www.harrow.gov.uk/bins-waste-recycling/food-waste-bio-bags\n\n                            Bin, Waste & Recycling\n                            https://www.harrow.gov.uk/bins-waste-recycling\n\n                            What goes in which bin?\n                            https://www.harrow.gov.uk/binguide",
-    "days_until": 6
+    "days_until": 5
   },
   "events": [
     {
