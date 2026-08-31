@@ -1,17 +1,12 @@
 {
-  "generated": "2026-08-30T11:24:47.569227+01:00",
+  "generated": "2026-08-31T12:29:46.183485+01:00",
   "next": {
-    "summary": "AEW All In: London",
-    "start": "2026-08-30",
-    "description": "AEW All In: London will return to Wembley Stadium in 2026",
-    "days_until": 0
+    "summary": "Bon Jovi",
+    "start": "2026-09-04",
+    "description": "Forever Tour",
+    "days_until": 4
   },
   "events": [
-    {
-      "summary": "AEW All In: London",
-      "start": "2026-08-30",
-      "description": "AEW All In: London will return to Wembley Stadium in 2026"
-    },
     {
       "summary": "Bon Jovi",
       "start": "2026-09-04",
