@@ -1,17 +1,12 @@
 {
-  "generated": "2026-09-06T10:14:00.890147+01:00",
+  "generated": "2026-09-07T11:02:50.931391+01:00",
   "next": {
     "summary": "Bon Jovi",
-    "start": "2026-09-06",
+    "start": "2026-09-09",
     "description": "Forever Tour",
-    "days_until": 0
+    "days_until": 2
   },
   "events": [
-    {
-      "summary": "Bon Jovi",
-      "start": "2026-09-06",
-      "description": "Forever Tour"
-    },
     {
       "summary": "Bon Jovi",
       "start": "2026-09-09",
