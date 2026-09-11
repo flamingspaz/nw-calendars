@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-10T10:29:38.119513+01:00",
+  "generated": "2026-09-11T10:27:08.343954+01:00",
   "next": {
     "summary": "Diljit Dosanjh",
     "start": "2026-09-12",
     "description": "Aura World Tour",
-    "days_until": 2
+    "days_until": 1
   },
   "events": [
     {
@@ -51,6 +51,21 @@
       "summary": "Noah Kahan",
       "start": "2027-07-25",
       "description": "The Last of the Bugs World Tour"
+    },
+    {
+      "summary": "Harry Styles",
+      "start": "2027-08-25",
+      "description": "Together Together"
+    },
+    {
+      "summary": "Harry Styles",
+      "start": "2027-08-27",
+      "description": "Together Together"
+    },
+    {
+      "summary": "Harry Styles",
+      "start": "2027-08-28",
+      "description": "Together Together"
     }
   ]
 }
