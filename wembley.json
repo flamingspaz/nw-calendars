@@ -1,17 +1,12 @@
 {
-  "generated": "2026-09-12T10:08:40.807884+01:00",
+  "generated": "2026-09-13T11:05:54.136877+01:00",
   "next": {
-    "summary": "Diljit Dosanjh",
-    "start": "2026-09-12",
-    "description": "Aura World Tour",
-    "days_until": 0
+    "summary": "Union Jack Classic",
+    "start": "2026-09-19",
+    "description": "Arizona State Sun Devils will face Kansas Jayhawks in the Union Jack Classic at Wembley Stadium",
+    "days_until": 6
   },
   "events": [
-    {
-      "summary": "Diljit Dosanjh",
-      "start": "2026-09-12",
-      "description": "Aura World Tour"
-    },
     {
       "summary": "Union Jack Classic",
       "start": "2026-09-19",
