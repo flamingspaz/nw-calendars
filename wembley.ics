@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:-//Pesky Potato//pesky.moe//EN
 X-WR-CALNAME:Wembley Stadium
 BEGIN:VEVENT
-SUMMARY:Union Jack Classic
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-UID:59edbc935d2a2a58bae91b5f35aac24ae1ae5ad3@flamingspaz.github.io
-DESCRIPTION:Arizona State Sun Devils will face Kansas Jayhawks in the Unio
- n Jack Classic at Wembley Stadium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:19:45 England v Spain
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927

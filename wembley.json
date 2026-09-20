@@ -1,17 +1,12 @@
 {
-  "generated": "2026-09-19T10:18:24.083099+01:00",
+  "generated": "2026-09-20T10:40:52.571490+01:00",
   "next": {
-    "summary": "Union Jack Classic",
-    "start": "2026-09-19",
-    "description": "Arizona State Sun Devils will face Kansas Jayhawks in the Union Jack Classic at Wembley Stadium",
-    "days_until": 0
+    "summary": "19:45 England v Spain",
+    "start": "2026-09-26",
+    "description": "Spain travel to take on the Three Lions under the arch on Saturday 26 September 2026",
+    "days_until": 6
   },
   "events": [
-    {
-      "summary": "Union Jack Classic",
-      "start": "2026-09-19",
-      "description": "Arizona State Sun Devils will face Kansas Jayhawks in the Union Jack Classic at Wembley Stadium"
-    },
     {
       "summary": "19:45 England v Spain",
       "start": "2026-09-26",
