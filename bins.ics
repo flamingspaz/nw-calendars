@@ -4,13 +4,6 @@ PRODID:-//Pesky Potato//pesky.moe//EN
 X-WR-CALNAME:Bins
 SUMMARY:Harrow Bin Calendar
 BEGIN:VEVENT
-SUMMARY:✅ General Waste
-DTSTART;TZID=Europe/London:20260921T120300
-DTEND;TZID=Europe/London:20260921T120800
-UID:c49ee418948434716ddf4b24bfa93f26b0d13f73@flamingspaz.github.io
-DESCRIPTION:Bins were collected successfully
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:✅ Recycling Waste
 DTSTART;TZID=Europe/London:20260928T104611
 DTEND;TZID=Europe/London:20260928T105111
@@ -19,30 +12,23 @@ DESCRIPTION:Bins were collected successfully
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:✅ Food Waste
-DTSTART;TZID=Europe/London:20260928T104803
-DTEND;TZID=Europe/London:20260928T105303
-UID:68a27a298ba7a160a72c93f8572bdc1d8b558ef9@flamingspaz.github.io
+DTSTART;TZID=Europe/London:20261005T082327
+DTEND;TZID=Europe/London:20261005T082827
+UID:9e64d19aeb3fe87cc41388314f7be6dd0b139b08@flamingspaz.github.io
+DESCRIPTION:Bins were collected successfully
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✅ General Waste
+DTSTART;TZID=Europe/London:20261005T114127
+DTEND;TZID=Europe/London:20261005T114627
+UID:4043f0f909b070b0f6fdfe7e0979286566583ed6@flamingspaz.github.io
 DESCRIPTION:Bins were collected successfully
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Food Waste
-DTSTART;TZID=Europe/London:20261005T050000
-DTEND;TZID=Europe/London:20261005T050500
-UID:2c9b42039185c797dba96acc8e4b52b6763af618@flamingspaz.github.io
-DESCRIPTION:Please put your bins outside of your property before 6:30am on
-  your collection day.\n\n                            ❓Do you need to ord
- er more food waste bio bags? You can order more bags online at https://www
- .harrow.gov.uk/bins-waste-recycling/food-waste-bio-bags\n\n               
-              Bin\, Waste & Recycling\n                            https://
- www.harrow.gov.uk/bins-waste-recycling\n\n                            What
-  goes in which bin?\n                            https://www.harrow.gov.uk
- /binguide
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:General Waste
-DTSTART;TZID=Europe/London:20261005T050000
-DTEND;TZID=Europe/London:20261005T050500
-UID:8e459a20cffa7e4d08699e73ac3f33f23c5454f1@flamingspaz.github.io
+DTSTART;TZID=Europe/London:20261012T050000
+DTEND;TZID=Europe/London:20261012T050500
+UID:0bcd594e79331dd413fd62c1aeef5106c8f723f3@flamingspaz.github.io
 DESCRIPTION:Please put your bins outside of your property before 6:30am on
   your collection day.\n\n                            ❓Do you need to ord
  er more food waste bio bags? You can order more bags online at https://www
@@ -57,6 +43,20 @@ SUMMARY:Recycling Waste
 DTSTART;TZID=Europe/London:20261012T050000
 DTEND;TZID=Europe/London:20261012T050500
 UID:4bb7beb5c80fa72afd50ad30e580c321212e5d43@flamingspaz.github.io
+DESCRIPTION:Please put your bins outside of your property before 6:30am on
+  your collection day.\n\n                            ❓Do you need to ord
+ er more food waste bio bags? You can order more bags online at https://www
+ .harrow.gov.uk/bins-waste-recycling/food-waste-bio-bags\n\n               
+              Bin\, Waste & Recycling\n                            https://
+ www.harrow.gov.uk/bins-waste-recycling\n\n                            What
+  goes in which bin?\n                            https://www.harrow.gov.uk
+ /binguide
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Waste
+DTSTART;TZID=Europe/London:20261019T050000
+DTEND;TZID=Europe/London:20261019T050500
+UID:aec978866273b1a1816db993a2fd4fd8ebb01c03@flamingspaz.github.io
 DESCRIPTION:Please put your bins outside of your property before 6:30am on
   your collection day.\n\n                            ❓Do you need to ord
  er more food waste bio bags? You can order more bags online at https://www
