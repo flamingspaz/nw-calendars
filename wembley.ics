@@ -18,6 +18,14 @@ DESCRIPTION:Croatia travel to take on the Three Lions under the arch on Th
  ursday 12 November 2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:17:30 England v Ukraine
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+UID:7242ccadd6d438d539740f3b73c4a51f19ee8cc6@flamingspaz.github.io
+DESCRIPTION:The 2025 European champions will meet Ukraine under the arch o
+ n Saturday 5 December 2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Slipknot
 DTSTART;VALUE=DATE:20270703
 DTEND;VALUE=DATE:20270704

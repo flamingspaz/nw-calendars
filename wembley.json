@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-13T13:33:03.239779+01:00",
+  "generated": "2026-10-14T17:29:48.006738+01:00",
   "next": {
     "summary": "14:30 Jacksonville Jaguars 2026",
     "start": "2026-10-18",
     "description": "Houston Texans @ Jacksonville Jaguars",
-    "days_until": 5
+    "days_until": 4
   },
   "events": [
     {
@@ -16,6 +16,11 @@
       "summary": "19:45 England v Croatia",
       "start": "2026-11-12",
       "description": "Croatia travel to take on the Three Lions under the arch on Thursday 12 November 2026"
+    },
+    {
+      "summary": "17:30 England v Ukraine",
+      "start": "2026-12-05",
+      "description": "The 2025 European champions will meet Ukraine under the arch on Saturday 5 December 2026"
     },
     {
       "summary": "Slipknot",
