@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-20T10:54:24.191598+01:00",
+  "generated": "2026-10-22T10:56:41.460851+01:00",
   "next": {
     "summary": "19:45 England v Croatia",
     "start": "2026-11-12",
     "description": "Croatia travel to take on the Three Lions under the arch on Thursday 12 November 2026",
-    "days_until": 23
+    "days_until": 21
   },
   "events": [
     {
@@ -18,9 +18,19 @@
       "description": "The 2025 European champions will meet Ukraine under the arch on Saturday 5 December 2026"
     },
     {
-      "summary": "17:30 England v Ukraine",
+      "summary": "17:30 England v Ukraine - Away Supporters",
       "start": "2026-12-05",
-      "description": "The 2025 European champions will meet Ukraine under the arch on Saturday 5 December 2026"
+      "description": "Ukraine will meet England under the arch on Saturday 5 December 2026"
+    },
+    {
+      "summary": "Sam Fender",
+      "start": "2027-06-18",
+      "description": "Proper Massive Stadium Tour '27"
+    },
+    {
+      "summary": "Sam Fender",
+      "start": "2027-06-20",
+      "description": "Proper Massive Stadium Tour '27"
     },
     {
       "summary": "Slipknot",

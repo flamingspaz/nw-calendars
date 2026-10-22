@@ -19,12 +19,26 @@ DESCRIPTION:The 2025 European champions will meet Ukraine under the arch o
  n Saturday 5 December 2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:17:30 England v Ukraine
+SUMMARY:17:30 England v Ukraine - Away Supporters
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-UID:7242ccadd6d438d539740f3b73c4a51f19ee8cc6@flamingspaz.github.io
-DESCRIPTION:The 2025 European champions will meet Ukraine under the arch o
- n Saturday 5 December 2026
+UID:ab2e97b609d0d330340549ac2c3d330f13cd5c45@flamingspaz.github.io
+DESCRIPTION:Ukraine will meet England under the arch on Saturday 5 Decembe
+ r 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sam Fender
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+UID:7922a4916b318cb38677ddd93670a3736c52b0df@flamingspaz.github.io
+DESCRIPTION:Proper Massive Stadium Tour '27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sam Fender
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+UID:0d2e80884b0cdc500bbab479a4031d6d31f63ead@flamingspaz.github.io
+DESCRIPTION:Proper Massive Stadium Tour '27
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slipknot
