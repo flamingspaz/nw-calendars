@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-29T11:23:12.713574+00:00",
+  "generated": "2026-10-30T11:15:23.130476+00:00",
   "next": {
     "summary": "19:45 England v Croatia",
     "start": "2026-11-12",
     "description": "Croatia travel to take on the Three Lions under the arch on Thursday 12 November 2026",
-    "days_until": 14
+    "days_until": 13
   },
   "events": [
     {
@@ -66,6 +66,11 @@
       "summary": "Harry Styles",
       "start": "2027-08-28",
       "description": "Together Together"
+    },
+    {
+      "summary": "Sam Fender",
+      "start": "2027-09-02",
+      "description": "Proper Massive Stadium Tour '27"
     }
   ]
 }
