@@ -1,41 +1,5 @@
 {
-  "generated": "2026-11-01T11:44:58.986227+00:00",
-  "next": {
-    "summary": "Food Waste",
-    "start": "2026-11-02T05:00:00+00:00",
-    "description": "Please put your bins outside of your property before 6:30am on your collection day.\n\n                            \u2753Do you need to order more food waste bio bags? You can order more bags online at https://www.harrow.gov.uk/bins-waste-recycling/food-waste-bio-bags\n\n                            Bin, Waste & Recycling\n                            https://www.harrow.gov.uk/bins-waste-recycling\n\n                            What goes in which bin?\n                            https://www.harrow.gov.uk/binguide",
-    "days_until": 1
-  },
-  "events": [
-    {
-      "summary": "\u2705 General Waste",
-      "start": "2026-10-19T11:42:08.127000+01:00",
-      "description": "Bins were collected successfully"
-    },
-    {
-      "summary": "\u2705 Food Waste",
-      "start": "2026-10-26T09:29:20.380000+00:00",
-      "description": "Bins were collected successfully"
-    },
-    {
-      "summary": "\u2705 Recycling Waste",
-      "start": "2026-10-26T12:01:55.943000+00:00",
-      "description": "Bins were collected successfully"
-    },
-    {
-      "summary": "Food Waste",
-      "start": "2026-11-02T05:00:00+00:00",
-      "description": "Please put your bins outside of your property before 6:30am on your collection day.\n\n                            \u2753Do you need to order more food waste bio bags? You can order more bags online at https://www.harrow.gov.uk/bins-waste-recycling/food-waste-bio-bags\n\n                            Bin, Waste & Recycling\n                            https://www.harrow.gov.uk/bins-waste-recycling\n\n                            What goes in which bin?\n                            https://www.harrow.gov.uk/binguide"
-    },
-    {
-      "summary": "General Waste",
-      "start": "2026-11-02T05:00:00+00:00",
-      "description": "Please put your bins outside of your property before 6:30am on your collection day.\n\n                            \u2753Do you need to order more food waste bio bags? You can order more bags online at https://www.harrow.gov.uk/bins-waste-recycling/food-waste-bio-bags\n\n                            Bin, Waste & Recycling\n                            https://www.harrow.gov.uk/bins-waste-recycling\n\n                            What goes in which bin?\n                            https://www.harrow.gov.uk/binguide"
-    },
-    {
-      "summary": "Recycling Waste",
-      "start": "2026-11-09T05:00:00+00:00",
-      "description": "Please put your bins outside of your property before 6:30am on your collection day.\n\n                            \u2753Do you need to order more food waste bio bags? You can order more bags online at https://www.harrow.gov.uk/bins-waste-recycling/food-waste-bio-bags\n\n                            Bin, Waste & Recycling\n                            https://www.harrow.gov.uk/bins-waste-recycling\n\n                            What goes in which bin?\n                            https://www.harrow.gov.uk/binguide"
-    }
-  ]
+  "generated": "2026-11-02T13:17:30.898615+00:00",
+  "next": null,
+  "events": []
 }
