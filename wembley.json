@@ -1,17 +1,12 @@
 {
-  "generated": "2026-11-12T13:37:18.453544+00:00",
+  "generated": "2026-11-13T12:56:05.497298+00:00",
   "next": {
-    "summary": "19:45 England v Croatia",
-    "start": "2026-11-12",
-    "description": "Croatia travel to take on the Three Lions under the arch on Thursday 12 November 2026",
-    "days_until": 0
+    "summary": "17:30 England v Ukraine",
+    "start": "2026-12-05",
+    "description": "The 2025 European champions will meet Ukraine under the arch on Saturday 5 December 2026",
+    "days_until": 22
   },
   "events": [
-    {
-      "summary": "19:45 England v Croatia",
-      "start": "2026-11-12",
-      "description": "Croatia travel to take on the Three Lions under the arch on Thursday 12 November 2026"
-    },
     {
       "summary": "17:30 England v Ukraine",
       "start": "2026-12-05",
