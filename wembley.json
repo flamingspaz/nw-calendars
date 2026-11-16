@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-15T12:35:35.279990+00:00",
+  "generated": "2026-11-16T13:27:33.351512+00:00",
   "next": {
     "summary": "17:30 England v Ukraine",
     "start": "2026-12-05",
     "description": "The 2025 European champions will meet Ukraine under the arch on Saturday 5 December 2026",
-    "days_until": 20
+    "days_until": 19
   },
   "events": [
     {
@@ -66,6 +66,16 @@
       "summary": "Sam Fender",
       "start": "2027-09-02",
       "description": "Proper Massive Stadium Tour '27"
+    },
+    {
+      "summary": "Foo Fighters",
+      "start": "2027-09-09",
+      "description": "Take Cover Tour 2027"
+    },
+    {
+      "summary": "Foo Fighters",
+      "start": "2027-09-11",
+      "description": "Take Cover Tour 2027"
     }
   ]
 }
