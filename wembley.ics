@@ -19,6 +19,13 @@ DESCRIPTION:Ukraine will meet England under the arch on Saturday 5 Decembe
  r 2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Carabao Cup Final
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+UID:20ec1ee01b703408d836ae59c765f59aaa7ac1ef@flamingspaz.github.io
+DESCRIPTION:Who will lift the Carabao Cup at Wembley Stadium in 2027?
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sam Fender
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270619

@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-19T14:13:39.891716+00:00",
+  "generated": "2026-11-20T13:54:37.523731+00:00",
   "next": {
     "summary": "17:30 England v Ukraine",
     "start": "2026-12-05",
     "description": "The 2025 European champions will meet Ukraine under the arch on Saturday 5 December 2026",
-    "days_until": 16
+    "days_until": 15
   },
   "events": [
     {
@@ -16,6 +16,11 @@
       "summary": "17:30 England v Ukraine - Away Supporters",
       "start": "2026-12-05",
       "description": "Ukraine will meet England under the arch on Saturday 5 December 2026"
+    },
+    {
+      "summary": "The Carabao Cup Final",
+      "start": "2027-03-21",
+      "description": "Who will lift the Carabao Cup at Wembley Stadium in 2027?"
     },
     {
       "summary": "Sam Fender",
