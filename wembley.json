@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-20T13:54:37.523731+00:00",
+  "generated": "2026-11-21T13:18:25.948967+00:00",
   "next": {
     "summary": "17:30 England v Ukraine",
     "start": "2026-12-05",
     "description": "The 2025 European champions will meet Ukraine under the arch on Saturday 5 December 2026",
-    "days_until": 15
+    "days_until": 14
   },
   "events": [
     {
@@ -21,6 +21,11 @@
       "summary": "The Carabao Cup Final",
       "start": "2027-03-21",
       "description": "Who will lift the Carabao Cup at Wembley Stadium in 2027?"
+    },
+    {
+      "summary": "19:45 England v Norway",
+      "start": "2027-03-30",
+      "description": "England will play against Norway in the UEFA Nations League quarter-final"
     },
     {
       "summary": "Sam Fender",

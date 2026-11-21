@@ -26,6 +26,14 @@ UID:20ec1ee01b703408d836ae59c765f59aaa7ac1ef@flamingspaz.github.io
 DESCRIPTION:Who will lift the Carabao Cup at Wembley Stadium in 2027?
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:19:45 England v Norway
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+UID:89654a1ff575b0358e972d969e71255554eb9346@flamingspaz.github.io
+DESCRIPTION:England will play against Norway in the UEFA Nations League qu
+ arter-final
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sam Fender
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270619
